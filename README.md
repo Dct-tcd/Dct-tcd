@@ -7,7 +7,7 @@
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Computer Science and  computer programming .
 - 🌱 &nbsp; Enthusiast in full-Stack and Competetive programming .
-- 😴 &nbsp; I belive, a perfect nap can be the ultimate solution for any stress. 
+- 😴 &nbsp; I believe, a perfect nap can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
 
