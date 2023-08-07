@@ -13,7 +13,7 @@
 
 - 💻 &nbsp; Python | JavaScript | React | C++   
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap  | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman
+- 🛢 &nbsp; MySQL | Firebase | Postman | Supabase
 - 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter 
 
 
