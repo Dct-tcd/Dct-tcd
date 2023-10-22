@@ -12,8 +12,8 @@
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Python | JavaScript | React |  C++  | vue | FastApi
-- 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap  | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman | Supabase
+- 🌐 &nbsp; Full-Stack | React | HTML | CSS | Bootstrap  | Tailwind 
+- 🛢 &nbsp; MySQL | Firebase | Postman | Supabase 
 - 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter | Google collab
 
 
