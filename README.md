@@ -11,10 +11,10 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | JavaScript | React | C++   | vue
+- 💻 &nbsp; Python | JavaScript | React |  C++  | vue | FastApi
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | JavaScript | Bootstrap  | Tailwind 
 - 🛢 &nbsp; MySQL | Firebase | Postman | Supabase
-- 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter 
+- 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter | Google collab
 
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dct-tcd&theme=submarine-flowers&border_radius=5&fire=DD701B)](https://git.io/streak-stats)
