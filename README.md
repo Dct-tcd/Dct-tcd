@@ -19,10 +19,10 @@
 ![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
 ![MongoDb](https://img.shields.io/badge/MongoDb-005C84?style=flat-square&logo=mongodb&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-00C7B7?style=flat-square&logo=vercel&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-00C7B7?style=flat-square&logo=firebase&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-00C7B7?style=flat-square&logo=supabase&logoColor=white)
-![Fastapi](https://img.shields.io/badge/Fastapi-00C7B7?style=flat-square&logo=fastapi&logoColor=white)
-![Django](https://img.shields.io/badge/Django-00C7B7?style=flat-square&logo=django&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-005C84?style=flat-square&logo=firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-1572B6?style=flat-square&logo=supabase&logoColor=white)
+![Fastapi](https://img.shields.io/badge/Fastapi-005C84?style=flat-square&logo=fastapi&logoColor=white)
+![Django](https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=django&logoColor=white)
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🏆 &nbsp; Competitive programmer who loves to code.
