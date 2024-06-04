@@ -35,7 +35,7 @@
 
 - 💻 &nbsp; Python | JavaScript | React |  C++  | vue | FastApi
 - 🌐 &nbsp; Full-Stack | React | HTML | CSS | Bootstrap  | Tailwind 
-- 🛢 &nbsp; MySQL | Firebase | Postman | Supabase 
+- 🛢 &nbsp; MySQL | Firebase | Postman | Supabase | MongoDb
 - 🔧 &nbsp;  Visual Studio code  | Git |  Jupyter | Google collab
 
 
